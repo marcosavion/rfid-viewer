@@ -1,0 +1,9 @@
+/home/kali/Desktop/rfid-viewer/rfid-viewer/build/Desktop_Qt_6_7_2-Debug/CMakeFiles/rfid-viewer.dir
+/home/kali/Desktop/rfid-viewer/rfid-viewer/build/Desktop_Qt_6_7_2-Debug/CMakeFiles/edit_cache.dir
+/home/kali/Desktop/rfid-viewer/rfid-viewer/build/Desktop_Qt_6_7_2-Debug/CMakeFiles/rebuild_cache.dir
+/home/kali/Desktop/rfid-viewer/rfid-viewer/build/Desktop_Qt_6_7_2-Debug/CMakeFiles/list_install_components.dir
+/home/kali/Desktop/rfid-viewer/rfid-viewer/build/Desktop_Qt_6_7_2-Debug/CMakeFiles/install.dir
+/home/kali/Desktop/rfid-viewer/rfid-viewer/build/Desktop_Qt_6_7_2-Debug/CMakeFiles/install/local.dir
+/home/kali/Desktop/rfid-viewer/rfid-viewer/build/Desktop_Qt_6_7_2-Debug/CMakeFiles/install/strip.dir
+/home/kali/Desktop/rfid-viewer/rfid-viewer/build/Desktop_Qt_6_7_2-Debug/CMakeFiles/rfid-viewer_autogen_timestamp_deps.dir
+/home/kali/Desktop/rfid-viewer/rfid-viewer/build/Desktop_Qt_6_7_2-Debug/CMakeFiles/rfid-viewer_autogen.dir

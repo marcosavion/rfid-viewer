@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-c4816ea8c4bfc5a5d091.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "rfid-viewer",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "rfid-viewer::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-rfid-viewer-Debug-4afbef0b1d2ba8f7e98b.json",
+					"name" : "rfid-viewer",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "rfid-viewer_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-rfid-viewer_autogen-Debug-a97322495aa75dffd60d.json",
+					"name" : "rfid-viewer_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "rfid-viewer_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-rfid-viewer_autogen_timestamp_deps-Debug-9dc504dae1536cddddb4.json",
+					"name" : "rfid-viewer_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/kali/Desktop/rfid-viewer/rfid-viewer/build/Desktop_Qt_6_7_2-Debug",
+		"source" : "/home/kali/Desktop/rfid-viewer/rfid-viewer"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}
